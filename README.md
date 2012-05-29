@@ -9,8 +9,9 @@ The file `pig.xml` contains a first rough version of syntax highlighting for use
 
 Installation:
 
+<pre>
 \# mkdir ~./kde/share/apps/katepart/syntax/
-
 \# cp pig.xml ~./kde/share/apps/katepart/syntax/
+</pre>
 
 [1]: http://pig.apache.org/
